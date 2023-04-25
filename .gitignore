@@ -1,0 +1,6 @@
+/node_modules
+/.vscode
+.DS_Store
+
+
+// jeigu naudoja slesas tai blokuoja tik pirmos eiles failus, ne tie kur failo viduj /node_modules, be sleso visus
